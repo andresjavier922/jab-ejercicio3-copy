@@ -20,4 +20,6 @@ label {
 
 .caja {
   text-align: center;
+  user-select: none;
 }
+
